@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="org.junit.experimental.theories.PotentialAssignment"/>
+    <fullyQualifiedTypeName name="recursao.MetodosRecursivos"/>
+    <fullyQualifiedTypeName name="leda.ClasseComGenerico"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="sorting.simpleSorting.BubbleSort"/>
+    <fullyQualifiedTypeName name="sorting.simpleSorting.SelectionSort"/>
+    <fullyQualifiedTypeName name="sorting.simpleSorting.InsertionSort"/>
+    <fullyQualifiedTypeName name="sorting.variationsOfBubblesort.RecursiveBubbleSort"/>
+    <fullyQualifiedTypeName name="util.Util"/>
+    <fullyQualifiedTypeName name="sorting.variationsOfBubblesort.BidirectionalBubbleSort"/>
+    <fullyQualifiedTypeName name="sorting.variationsOfSelectionsort.RecursiveSelectionSort"/>
+</qualifiedTypeNameHistroy>

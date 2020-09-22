@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-16T10:42:14.064-0300</date>
+  <logger>VITOR ALVES CORREIA LIMA DE AQUINO</logger>
+  <level>FINE</level>
+  <message>File 116211457-VITOR ALVES CORREIA LIMA DE AQUINO.zip was received. It was sent by VITOR ALVES CORREIA LIMA DE AQUINO from IP 192.168.1.20 at 16-09-2020 10*42*14</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-09-16T13:36:50.028-0300</date>
+  <logger>VITOR ALVES CORREIA LIMA DE AQUINO</logger>
+  <level>FINE</level>
+  <message>File 116211457-VITOR ALVES CORREIA LIMA DE AQUINO.zip was received. It was sent by VITOR ALVES CORREIA LIMA DE AQUINO from IP 192.168.1.20 at 16-09-2020 13*36*50</message>
+</record>
