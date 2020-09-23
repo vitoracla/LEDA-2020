@@ -87,6 +87,7 @@ public class StudentSortingTest {
 
 	@Test
 	public void testSort02() {
+	
 		genericTest(vetorTamImpar);
 	}
 

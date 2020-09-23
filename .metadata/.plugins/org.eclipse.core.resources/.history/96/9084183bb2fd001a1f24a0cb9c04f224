@@ -26,7 +26,7 @@ public class RecursiveSelectionSort<T extends Comparable<T>> extends AbstractSor
 				}
 
 			}
-			if (menorIndice != i) {
+			if (menorIndice != i) {s
 				Util.swap(array, menorIndice, i);
 			}
 

@@ -1226,3 +1226,13 @@
 2020-09-23 11:59:15,324 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2020-09-23 11:59:20,580 [Worker-24: Launching R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vitoraquino/Downloads/R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment
 2020-09-23 11:59:20,582 [Worker-24: Launching R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment (3)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2020-09-23 12:33:54,012 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-23 12:34:11,785 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-23 12:34:11,788 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/Downloads/R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment/src/main/resources
+2020-09-23 12:34:11,797 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-23 12:34:11,799 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/Downloads/R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment/src/test/resources
+2020-09-23 12:34:13,416 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-23 12:34:13,418 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/Downloads/R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment/src/main/resources
+2020-09-23 12:34:13,423 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-23 12:34:13,424 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/Downloads/R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment/src/test/resources
+2020-09-23 12:37:48,030 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
