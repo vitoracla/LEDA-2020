@@ -7,10 +7,10 @@
     <fullyQualifiedTypeName name="leda.ClasseComGenerico"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="sorting.simpleSorting.BubbleSort"/>
-    <fullyQualifiedTypeName name="sorting.simpleSorting.SelectionSort"/>
     <fullyQualifiedTypeName name="sorting.simpleSorting.InsertionSort"/>
     <fullyQualifiedTypeName name="sorting.variationsOfBubblesort.RecursiveBubbleSort"/>
     <fullyQualifiedTypeName name="util.Util"/>
     <fullyQualifiedTypeName name="sorting.variationsOfBubblesort.BidirectionalBubbleSort"/>
     <fullyQualifiedTypeName name="sorting.variationsOfSelectionsort.RecursiveSelectionSort"/>
+    <fullyQualifiedTypeName name="sorting.simpleSorting.SelectionSort"/>
 </qualifiedTypeNameHistroy>
