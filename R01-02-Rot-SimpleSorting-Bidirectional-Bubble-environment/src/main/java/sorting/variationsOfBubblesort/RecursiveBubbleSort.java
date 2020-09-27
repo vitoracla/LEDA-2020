@@ -20,18 +20,18 @@ public class RecursiveBubbleSort<T extends Comparable<T>> extends
 			return;
 		}
 		
-		for(int i = leftIndex; i < rightIndex - 1; i++) {
-			for (int j = leftIndex; j < rightIndex; j++) {
-				if(array[j].compareTo(array[j + 1]) > 0){
-					Util.swap(array, j, j + 1);
+		for(int i = leftIndex; i < rightIndex; i++) {
+	
+				if(array[i].compareTo(array[i + 1]) > 0){
+					Util.swap(array, i, i + 1);
 						
 				
 			}
-			if(rightIndex - 1 > 1) {
-				sort(array, rightIndex - 1, rightIndex);
+			if(leftIndex < rightIndex) {
+				sort(array,leftIndex, rightIndex - 1);
 			}
 			
-		}
+		
 		
 		
 		
