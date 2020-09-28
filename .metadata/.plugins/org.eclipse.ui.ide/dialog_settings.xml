@@ -10,6 +10,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/vitoraquino/eclipse-workspace/R02-02-Rot-RecursiveSorting-Quick3-Merge-environment"/>
 			<item value="/Users/vitoraquino/eclipse-workspace"/>
 			<item value="/Users/vitoraquino/Downloads/R01-02-Rot-SimpleSorting-Bidirectional-Bubble-environment"/>
 			<item value="/Users/vitoraquino/Downloads/RR1-02-Roteiro-Revisao-Recursao-environment"/>
