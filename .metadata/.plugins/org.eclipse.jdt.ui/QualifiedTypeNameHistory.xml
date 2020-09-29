@@ -11,6 +11,9 @@
     <fullyQualifiedTypeName name="sorting.variationsOfBubblesort.BidirectionalBubbleSort"/>
     <fullyQualifiedTypeName name="sorting.simpleSorting.SelectionSort"/>
     <fullyQualifiedTypeName name="sorting.variationsOfBubblesort.RecursiveBubbleSort"/>
-    <fullyQualifiedTypeName name="util.Util"/>
     <fullyQualifiedTypeName name="sorting.variationsOfSelectionsort.RecursiveSelectionSort"/>
+    <fullyQualifiedTypeName name="java.lang.Comparable"/>
+    <fullyQualifiedTypeName name="sorting.divideAndConquer.MergeSort"/>
+    <fullyQualifiedTypeName name="util.Util"/>
+    <fullyQualifiedTypeName name="sorting.divideAndConquer.QuickSort"/>
 </qualifiedTypeNameHistroy>
