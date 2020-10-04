@@ -44,7 +44,9 @@ public class HybridMergeSort<T extends Comparable<T>> extends AbstractSorting<T>
 		else {
 			insertionSort(array, leftIndex, rightIndex);
 			INSERTIONSORT_APPLICATIONS += 1;
+
 		}
+
 	}
 
 	private void insertionSort(T[] array, int leftIndex, int rightIndex) {

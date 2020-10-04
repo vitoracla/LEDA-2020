@@ -13,40 +13,32 @@ import util.Util;
  */
 public class QuickSort<T extends Comparable<T>> extends AbstractSorting<T> {
 
+
 	@Override
 	public void sort(T[] array, int leftIndex, int rightIndex) {
-
-		if (leftIndex > rightIndex) {
-			return;
+		if (leftIndex < rightIndex) {
+			int mediana = retornaPivot(array, leftIndex, rightIndex);
+			sort(array, leftIndex, mediana - 1);
+			sort(array, mediana + 1, rightIndex);
 		}
-		int mediana = retornaPivo(array, leftIndex, rightIndex);
-		sort(array, leftIndex, mediana - 1);
-		sort(array, mediana + 1, rightIndex);
 
 	}
 
-	public int retornaPivo(T[] array, int leftIndex, int rightIndex) {
-		
-		T pivo = array[leftIndex];
-		int menor = leftIndex + 1;
-		int maior = rightIndex;
-		
-		while(menor <= maior) {
-			if(array[menor].compareTo(pivo) <= 0) {
-				menor ++;
-			
-			}else if(array[maior].compareTo(pivo) > 0){
-				maior --;
-			
-			}else {
-			Util.swap(array, menor, maior);
-			
+	public int retornaPivot(T[] array, int leftIndex, int rightIndex) {
+		T pivot = array[leftIndex];
+		int i = leftIndex + 1;
+		int j = rightIndex;
+
+		while (i <= j) {
+			if (array[i].compareTo(pivot) <= 0) {
+				i++;
+			} else if (array[j].compareTo(pivot) > 0) {
+				j--;
+			} else {
+				Util.swap(array, i, j);
 			}
 		}
-		
-		Util.swap(array, leftIndex, maior);
-		return maior;
-		
+		Util.swap(array, leftIndex, j);
+		return j;
 	}
 }
-	

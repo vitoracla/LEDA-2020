@@ -13,16 +13,15 @@ public class MergeSort<T extends Comparable<T>> extends AbstractSorting<T> {
 	@Override
 	public void sort(T[] array, int leftIndex, int rightIndex) {
 		if (leftIndex < rightIndex) {
-			
-			int meio = (rightIndex + leftIndex) / 2;
+			int meio = (leftIndex + rightIndex) / 2;
+
 			sort(array, leftIndex, meio);
 			sort(array, meio + 1, rightIndex);
 			mergeSort(array, leftIndex, meio, rightIndex);
 		}
-
 	}
 
-	private void mergeSort(T[] array, int leftIndex, int meio, int rightIndex) { // juntar as listas
+	public void mergeSort(T[] array, int leftIndex, int meio, int rightIndex) {
 		T[] auxiliar = (T[]) new Comparable[array.length];
 
 		int i = leftIndex;
@@ -37,13 +36,13 @@ public class MergeSort<T extends Comparable<T>> extends AbstractSorting<T> {
 			if (auxiliar[i].compareTo(auxiliar[j]) <= 0) {
 				array[k] = auxiliar[i];
 				i++;
+
 			} else {
 				array[k] = auxiliar[j];
 				j++;
 			}
 
 			k++;
-
 		}
 
 		while (i <= meio) {
@@ -57,5 +56,6 @@ public class MergeSort<T extends Comparable<T>> extends AbstractSorting<T> {
 			j++;
 			k++;
 		}
+
 	}
 }
