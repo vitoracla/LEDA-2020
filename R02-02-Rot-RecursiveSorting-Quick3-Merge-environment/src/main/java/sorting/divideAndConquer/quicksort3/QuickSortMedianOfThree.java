@@ -18,6 +18,7 @@ import util.Util;
  */
 public class QuickSortMedianOfThree<T extends Comparable<T>> extends AbstractSorting<T> {
 
+	// para encontrar a media do primeiro, do meio e do ultimo elemento como pivo e ordenar o array
 	public void sort(T[] array, int leftIndex, int rightIndex) {
 		if (leftIndex >= rightIndex) {
 			return;
@@ -62,7 +63,7 @@ public class QuickSortMedianOfThree<T extends Comparable<T>> extends AbstractSor
 
 		}
 	}
-
+    // se for menor ou igual a 10 usa isso
 	private void insertionSort(T[] array, int leftIndex, int rightIndex) {
 			for (int i = leftIndex; i < rightIndex; i++) {
 				int j = i + 1;
