@@ -14,7 +14,6 @@
     <fullyQualifiedTypeName name="java.lang.Comparable"/>
     <fullyQualifiedTypeName name="sorting.divideAndConquer.QuickSort"/>
     <fullyQualifiedTypeName name="sorting.divideAndConquer.MergeSort"/>
-    <fullyQualifiedTypeName name="sorting.divideAndConquer.hybridMergesort.HybridMergeSort"/>
     <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="sun.security.util.Length"/>
@@ -23,5 +22,6 @@
     <fullyQualifiedTypeName name="questoesEda.ordenaLista"/>
     <fullyQualifiedTypeName name="java.lang.reflect.Array"/>
     <fullyQualifiedTypeName name="util.Util"/>
+    <fullyQualifiedTypeName name="sorting.divideAndConquer.hybridMergesort.HybridMergeSort"/>
     <fullyQualifiedTypeName name="sorting.divideAndConquer.quicksort3.QuickSortMedianOfThree"/>
 </qualifiedTypeNameHistroy>

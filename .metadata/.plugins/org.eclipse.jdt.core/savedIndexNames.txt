@@ -1,7 +1,3 @@
 INDEX VERSION 1.131+/Users/vitoraquino/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
 28334386.index
-707342674.index
-1624406121.index
-2016791249.index
-2277434545.index
 598140288.index
