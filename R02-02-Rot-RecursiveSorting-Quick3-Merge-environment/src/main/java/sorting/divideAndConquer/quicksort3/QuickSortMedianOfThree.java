@@ -23,7 +23,7 @@ public class QuickSortMedianOfThree<T extends Comparable<T>> extends AbstractSor
 		if (leftIndex >= rightIndex) {
 			return;
 		} else {
-			int median = (leftIndex + rightIndex) / 2;
+			int median = (leftIndex + rightIndex + 1) / 2;
 			if (array[leftIndex].compareTo(array[median]) > 0) {
 				Util.swap(array, leftIndex, median);
 			}
