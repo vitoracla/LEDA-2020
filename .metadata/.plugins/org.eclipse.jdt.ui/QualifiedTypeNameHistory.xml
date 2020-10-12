@@ -24,4 +24,6 @@
     <fullyQualifiedTypeName name="util.Util"/>
     <fullyQualifiedTypeName name="sorting.divideAndConquer.hybridMergesort.HybridMergeSort"/>
     <fullyQualifiedTypeName name="sorting.divideAndConquer.quicksort3.QuickSortMedianOfThree"/>
+    <fullyQualifiedTypeName name="sorting.linearSorting.CountingSort"/>
+    <fullyQualifiedTypeName name="sorting.linearSorting.ExtendedCountingSort"/>
 </qualifiedTypeNameHistroy>

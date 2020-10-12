@@ -7,3 +7,23 @@
   <level>FINE</level>
   <message>File 116211457-VITOR ALVES CORREIA LIMA DE AQUINO.zip was received. It was sent by VITOR ALVES CORREIA LIMA DE AQUINO from IP 192.168.1.10 at 07-10-2020 15*18*11</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-07T16:30:48.490-0300</date>
+  <logger>VITOR ALVES CORREIA LIMA DE AQUINO</logger>
+  <level>FINE</level>
+  <message>File 116211457-VITOR ALVES CORREIA LIMA DE AQUINO.zip was received. It was sent by VITOR ALVES CORREIA LIMA DE AQUINO from IP 192.168.1.10 at 07-10-2020 16*30*48</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-10-08T18:37:49.278-0300</date>
+  <logger>VITOR ALVES CORREIA LIMA DE AQUINO</logger>
+  <level>FINE</level>
+  <message>File 116211457-VITOR ALVES CORREIA LIMA DE AQUINO.zip was received. It was sent by VITOR ALVES CORREIA LIMA DE AQUINO from IP 192.168.1.10 at 08-10-2020 18*37*49</message>
+</record>
