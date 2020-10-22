@@ -63,26 +63,25 @@ public class QuickSelect<T extends Comparable<T>> {
 
 	}
 
-	private int partition(T[] values, int left, int right) {
+	private int partition(T[] array, int left, int right) {
+		
+	    T pivot =  array[right];
+		int pivotloc = left;
+        for (int a = left; a <= right; a++) {
 
-		int range = right - left + 1;
-		int rand_pivot_index = (int) (Math.random() * range) + left;
+            if (array[a].compareTo(pivot) < 0) {
+                T temp = array[a];
+                array[a] = array[pivotloc];
+                array[pivotloc] = temp;
+                pivotloc++;
+            }
+        }
 
-		Util.swap(values, left, rand_pivot_index);
+        T temp = array[right];
+        array[right] = array[pivotloc];
+        array[pivotloc] = temp;
 
-		T pivot = values[left];
-		int i = left;
-
-		for (int j = left + 1; j <= right; j++) {
-			if (values[j].compareTo(pivot) <= 0) {
-				i += 1;
-				Util.swap(values, i, j);
-			}
-		}
-
-		Util.swap(values, left, i);
-
-		return i;
-	}
+        return pivotloc;
+    }
 
 }
