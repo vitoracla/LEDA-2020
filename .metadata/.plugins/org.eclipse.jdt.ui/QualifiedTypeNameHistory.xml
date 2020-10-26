@@ -33,4 +33,5 @@
     <fullyQualifiedTypeName name="adt.queue.QueueImpl"/>
     <fullyQualifiedTypeName name="adt.stack.StackOverflowException"/>
     <fullyQualifiedTypeName name="adt.stack.StackUnderflowException"/>
+    <fullyQualifiedTypeName name="adt.queue.QueueUsingStack"/>
 </qualifiedTypeNameHistroy>
