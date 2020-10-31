@@ -34,4 +34,7 @@
     <fullyQualifiedTypeName name="adt.stack.StackOverflowException"/>
     <fullyQualifiedTypeName name="adt.stack.StackUnderflowException"/>
     <fullyQualifiedTypeName name="adt.queue.QueueUsingStack"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="adt.linkedList.SingleLinkedListImpl"/>
+    <fullyQualifiedTypeName name="adt.linkedList.SingleLinkedListNode"/>
 </qualifiedTypeNameHistroy>
