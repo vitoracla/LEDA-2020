@@ -37,4 +37,7 @@
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="adt.linkedList.SingleLinkedListImpl"/>
     <fullyQualifiedTypeName name="adt.linkedList.SingleLinkedListNode"/>
+    <fullyQualifiedTypeName name="adt.linkedList.RecursiveSingleLinkedListImpl"/>
+    <fullyQualifiedTypeName name="adt.linkedList.DoubleLinkedListImpl"/>
+    <fullyQualifiedTypeName name="adt.linkedList.RecursiveDoubleLinkedListImpl"/>
 </qualifiedTypeNameHistroy>

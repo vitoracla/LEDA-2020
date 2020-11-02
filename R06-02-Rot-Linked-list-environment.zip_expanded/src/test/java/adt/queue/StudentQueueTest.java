@@ -32,9 +32,9 @@ public class StudentQueueTest {
 
 	private void getImplementations() {
 		// TODO O aluno deve ajustar aqui para instanciar sua implementação
-		queue1 = null;
-		queue2 = null;
-		queue3 = null;
+		queue1 = new QueueDoubleLinkedListImpl<>(5);
+		queue2 = new QueueDoubleLinkedListImpl<>(8);
+		queue3 = new QueueDoubleLinkedListImpl<>(7);
 	}
 
 	// MÉTODOS DE TESTE

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-01T21:12:57.678-0300</date>
+  <logger>VITOR ALVES CORREIA LIMA DE AQUINO</logger>
+  <level>FINE</level>
+  <message>File 116211457-VITOR ALVES CORREIA LIMA DE AQUINO.zip was received. It was sent by VITOR ALVES CORREIA LIMA DE AQUINO from IP 192.168.1.15 at 01-11-2020 21*12*57</message>
+</record>
