@@ -42,4 +42,6 @@
     <fullyQualifiedTypeName name="adt.linkedList.RecursiveDoubleLinkedListImpl"/>
     <fullyQualifiedTypeName name="adt.queue.QueueDoubleLinkedListImpl"/>
     <fullyQualifiedTypeName name="adt.stack.StackDoubleLinkedListImpl"/>
+    <fullyQualifiedTypeName name="adt.heap.ComparatorMaxHeap"/>
+    <fullyQualifiedTypeName name="adt.heap.ComparatorMinHeap"/>
 </qualifiedTypeNameHistroy>

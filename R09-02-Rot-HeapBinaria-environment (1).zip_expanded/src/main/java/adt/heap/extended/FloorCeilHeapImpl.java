@@ -2,6 +2,7 @@ package adt.heap.extended;
 
 import java.util.Comparator;
 
+import adt.heap.ComparatorMinHeap;
 import adt.heap.HeapImpl;
 
 public class FloorCeilHeapImpl extends HeapImpl<Integer> implements FloorCeilHeap {
@@ -12,14 +13,16 @@ public class FloorCeilHeapImpl extends HeapImpl<Integer> implements FloorCeilHea
 
 	@Override
 	public Integer floor(Integer[] array, double numero) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+		Integer floor = null;
+		return floor;
 	}
 
 	@Override
 	public Integer ceil(Integer[] array, double numero) {
-		// TODO Auto-generated method stub
-		throw new UnsupportedOperationException("Not implemented yet!");
+
+		Integer ceil = null;
+
+		return ceil;
 	}
 
 }

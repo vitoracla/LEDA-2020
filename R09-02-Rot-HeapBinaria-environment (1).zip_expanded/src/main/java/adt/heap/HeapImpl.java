@@ -32,6 +32,8 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 
 	/**
 	 * Construtor da classe. Note que de inicio a heap funciona como uma min-heap.
+	 * OU seja, voce deve considerar que a heap usa o comparator interno e se o
+	 * comparator responde compare(x,y) < 0 entao o x eh menor e sobe na heap.
 	 */
 	@SuppressWarnings("unchecked")
 	public HeapImpl(Comparator<T> comparator) {
@@ -68,9 +70,8 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 	@Override
 	public T[] toArray() {
 		ArrayList<T> resp = new ArrayList<T>();
-		for (T elem : this.heap) {
-			if (elem != null)
-				resp.add(elem);
+		for (int i = 0; i <= this.index; i++) {
+			resp.add(this.heap[i]);
 		}
 		return (T[]) resp.toArray(new Comparable[0]);
 	}
@@ -101,6 +102,12 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 		}
 	}
 
+	private Integer trocas = 0;
+
+	public Integer getTrocas() {
+		return this.trocas;
+	}
+
 	@Override
 	public void insert(T element) {
 		// ESSE CODIGO E PARA A HEAP CRESCER SE FOR PRECISO. NAO MODIFIQUE
@@ -108,6 +115,8 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 			heap = Arrays.copyOf(heap, heap.length + INCREASING_FACTOR);
 		}
 		// /////////////////////////////////////////////////////////////////
+		// TODO Implemente a insercao na heap aqui.
+
 		if (element != null) {
 			index++;
 			this.heap[index] = element;
@@ -115,18 +124,19 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 		}
 	}
 
-    @Override
-    public void buildHeap(T[] array) {
-        if (array == null)
-            return;
- 
-        this.heap = array;
-        this.index = array.length - 1;
- 
-        for (int i = this.index; i >= 0; i--) {
-            this.heapify(i);
-        }
-    }
+	@Override
+	public void buildHeap(T[] array) {
+
+		for (int i = 0; i < array.length; i++) {
+			heap[i] = array[i];
+		}
+
+		this.index = array.length - 1;
+
+		for (int j = parent(index); j >= 0; j--) {
+			heapify(j);
+		}
+	}
 
 	@Override
 	public T extractRootElement() {
@@ -146,12 +156,14 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 
 	@Override
 	public T rootElement() {
+
 		if (!this.isEmpty())
 			return this.heap[0];
 		else
 			return null;
 	}
 
+	// transformar o retorno em uma minHeap
 	@Override
 	public T[] heapsort(T[] array) {
 
@@ -178,7 +190,7 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 
 	@Override
 	public int size() {
-		return index + 1;
+		return this.index + 1;
 	}
 
 	public Comparator<T> getComparator() {
@@ -192,4 +204,5 @@ public class HeapImpl<T extends Comparable<T>> implements Heap<T> {
 	public T[] getHeap() {
 		return heap;
 	}
+
 }

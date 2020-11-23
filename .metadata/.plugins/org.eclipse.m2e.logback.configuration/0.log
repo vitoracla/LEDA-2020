@@ -2459,3 +2459,236 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2020-11-16 20:43:33,213 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R07-02-Rot-TabelaHash-environment.zip_expanded/src/main/resources
 2020-11-16 20:43:33,216 [Worker-32: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-11-16 20:43:33,217 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R07-02-Rot-TabelaHash-environment.zip_expanded/src/test/resources
+2020-11-16 20:54:45,246 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 20:54:45,248 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment.zip_expanded/src/main/resources
+2020-11-16 20:54:45,253 [Worker-35: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-16 20:54:45,263 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment.zip_expanded/src/test/resources
+2020-11-17 17:02:16,463 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-17 17:02:16,476 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment.zip_expanded/src/main/resources
+2020-11-17 17:02:16,478 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-17 17:02:16,479 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment.zip_expanded/src/test/resources
+2020-11-18 16:57:13,078 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-18 16:57:13,084 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment.zip_expanded/src/main/resources
+2020-11-18 16:57:13,085 [Worker-87: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-18 16:57:13,086 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment.zip_expanded/src/test/resources
+2020-11-21 14:03:15,849 [Worker-149: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-21 14:03:16,074 [Worker-149: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/pom.xml.
+2020-11-21 14:03:16,334 [Worker-149: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/java
+2020-11-21 14:03:16,342 [Worker-149: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/java
+2020-11-21 14:03:16,524 [Worker-149: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-21 14:03:16,888 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-21 14:03:16,892 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-21 14:03:16,894 [Worker-147: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-21 14:03:16,895 [Worker-147: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:02:40,483 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-11-22 21:04:19,600 [Worker-12: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration StudentMaxHeapTest references non-existing project R09-02-Rot-HeapBinaria-environment.zip_expanded.
+org.eclipse.core.runtime.CoreException: Launch configuration StudentMaxHeapTest references non-existing project R09-02-Rot-HeapBinaria-environment.zip_expanded.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.12.0.v20200504-1602.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:401) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.800.v20200421-0950.jar:na]
+2020-11-22 21:04:19,604 [Worker-12: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration StudentMaxHeapTest references non-existing project R09-02-Rot-HeapBinaria-environment.zip_expanded.
+org.eclipse.core.runtime.CoreException: Launch configuration StudentMaxHeapTest references non-existing project R09-02-Rot-HeapBinaria-environment.zip_expanded.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.12.0.v20200504-1602.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:521) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:409) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:402) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.800.v20200421-0950.jar:na]
+2020-11-22 21:04:19,612 [Worker-12: Updating Maven Dependencies] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration StudentMaxHeapTest references non-existing project R09-02-Rot-HeapBinaria-environment.zip_expanded.
+org.eclipse.core.runtime.CoreException: Launch configuration StudentMaxHeapTest references non-existing project R09-02-Rot-HeapBinaria-environment.zip_expanded.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1843) ~[na:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1718) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:55) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:40) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:224) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.12.0.v20200504-1602.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:208) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2130) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:374) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:257) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:227) ~[na:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:185) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:403) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:427) ~[na:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:72) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:821) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:985) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:149) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1373) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:84) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.800.v20200421-0950.jar:na]
+2020-11-22 21:07:04,751 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:07:04,757 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:07:04,761 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:07:04,762 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:07:22,142 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:07:22,149 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:07:22,151 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:07:22,152 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:10:00,647 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:00,650 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:10:00,656 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:00,657 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:10:06,801 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:06,802 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:10:06,805 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:06,806 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:10:20,570 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:20,572 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:10:20,574 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:20,575 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:10:43,235 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:43,236 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:10:43,240 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:10:43,242 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:12:46,136 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:12:46,137 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:12:46,139 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:12:46,141 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:14:01,584 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:14:01,585 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:14:01,592 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:14:01,594 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:14:51,951 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:14:51,957 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:14:51,959 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:14:51,960 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:25:09,267 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:25:09,271 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:25:09,273 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:25:09,274 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 21:28:19,786 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:28:19,790 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 21:28:19,792 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 21:28:19,793 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:31:27,609 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:31:27,612 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:31:27,615 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:31:27,616 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:31:58,194 [Worker-39: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.edu.ufcg.ccc:submission:1.0 @ /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/pom.xml.
+2020-11-22 23:31:58,702 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:31:58,705 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:31:58,708 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:31:58,709 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:32:02,160 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-11-22 23:32:07,880 [Worker-37: Launching R09-02-Rot-HeapBinaria-environment (1).zip_expanded] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded
+2020-11-22 23:32:07,881 [Worker-37: Launching R09-02-Rot-HeapBinaria-environment (1).zip_expanded] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2020-11-22 23:40:11,922 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:40:11,925 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:40:11,935 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:40:11,943 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:40:12,974 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:40:12,976 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:40:12,978 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:40:12,980 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:41:02,391 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:02,392 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:41:02,394 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:02,395 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:41:03,422 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:03,424 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:41:03,426 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:03,427 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:41:41,904 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:41,906 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:41:41,908 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:41,909 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:41:42,983 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:42,984 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:41:42,986 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:41:42,987 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:42:51,683 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:42:51,686 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:42:51,690 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:42:51,691 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:42:53,909 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:42:53,910 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:42:53,912 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:42:53,913 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:43:28,384 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:43:28,385 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:43:28,398 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:43:28,399 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:44:01,135 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:44:01,141 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:44:01,143 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:44:01,144 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:44:59,941 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:44:59,945 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:44:59,947 [Worker-43: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:44:59,948 [Worker-43: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:45:04,183 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:45:04,189 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:45:04,191 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:45:04,192 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:46:09,942 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:46:09,943 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:46:09,944 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:46:09,945 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:46:18,239 [Worker-44: Launching StudentMaxHeapTest (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:46:18,240 [Worker-44: Launching StudentMaxHeapTest (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:46:18,243 [Worker-44: Launching StudentMaxHeapTest (1)] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:46:18,249 [Worker-44: Launching StudentMaxHeapTest (1)] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:46:35,125 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:46:35,126 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:46:35,133 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:46:35,134 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:47:08,297 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:47:08,298 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:47:08,302 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:47:08,303 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:47:26,167 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:47:26,168 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:47:26,169 [Worker-37: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:47:26,171 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:47:28,884 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:47:28,885 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:47:28,887 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:47:28,890 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:48:30,769 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:48:30,770 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/main/resources
+2020-11-22 23:48:30,772 [Worker-41: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-22 23:48:30,773 [Worker-41: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded/src/test/resources
+2020-11-22 23:48:41,799 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-11-22 23:48:48,176 [Worker-46: Launching R09-02-Rot-HeapBinaria-environment (1).zip_expanded (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded
+2020-11-22 23:48:48,176 [Worker-46: Launching R09-02-Rot-HeapBinaria-environment (1).zip_expanded (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2020-11-22 23:59:42,497 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-11-22 23:59:48,742 [Worker-47: Launching R09-02-Rot-HeapBinaria-environment (1).zip_expanded (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vitoraquino/eclipse-workspace/R09-02-Rot-HeapBinaria-environment (1).zip_expanded
+2020-11-22 23:59:48,743 [Worker-47: Launching R09-02-Rot-HeapBinaria-environment (1).zip_expanded (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B -Dmaven.test.skip=true -DskipTests install
+2020-11-23 11:34:37,100 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

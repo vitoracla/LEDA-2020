@@ -2,6 +2,9 @@ package orderStatistic;
 
 import java.util.PriorityQueue;
 
+import adt.heap.ComparatorMaxHeap;
+import adt.heap.ComparatorMinHeap;
+
 public class OrderStatisticsHeapImpl<T extends Comparable<T>> implements OrderStatistics<T> {
 
 	/**
@@ -18,11 +21,33 @@ public class OrderStatisticsHeapImpl<T extends Comparable<T>> implements OrderSt
 	
 	@Override
 	public T getOrderStatistics(T[] array, int k) {
-		PriorityQueue<T> heap = new PriorityQueue<T>();
-		//TODO IMplement your code here
-		throw new UnsupportedOperationException("Not implemented yet!");
+
+			T KEsimaEstatiscaDeOrdem = null;
+
+			if (k > 0 && k <= array.length && array.length > 0) {
+
+				
+				ComparatorMaxHeap<T> comparator = new ComparatorMaxHeap<>();
+				ComparatorMinHeap<T> comparatorMinHeap = new ComparatorMinHeap<>();
+				PriorityQueue<T> heap = new PriorityQueue<T>(comparator);
+
+				for (T element : array) {
+					heap.add(element);
+				}
+
+				while (!heap.isEmpty() && k > 0) {
+					KEsimaEstatiscaDeOrdem = heap.remove();
+					k--;
+				}
+
+			}
+
+			return KEsimaEstatiscaDeOrdem;
+		}
+
+		
+		
 	}
 
 	
 	
-}
