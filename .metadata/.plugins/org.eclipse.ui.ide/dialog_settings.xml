@@ -10,6 +10,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/vitoraquino/Downloads/R10-02-Rot-AVL-environment.zip"/>
 			<item value="/Users/vitoraquino/Downloads/R09-02-Rot-HeapBinaria-environment (1).zip"/>
 			<item value="/Users/vitoraquino/Downloads/R09-02-Rot-HeapBinaria-environment.zip"/>
 			<item value="/Users/vitoraquino/Downloads/R07-02-Rot-TabelaHash-environment.zip"/>

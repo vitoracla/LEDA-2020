@@ -24,7 +24,6 @@
     <fullyQualifiedTypeName name="sorting.divideAndConquer.quicksort3.QuickSortMedianOfThree"/>
     <fullyQualifiedTypeName name="sorting.linearSorting.CountingSort"/>
     <fullyQualifiedTypeName name="sorting.linearSorting.ExtendedCountingSort"/>
-    <fullyQualifiedTypeName name="java.util.Arrays"/>
     <fullyQualifiedTypeName name="util.Util"/>
     <fullyQualifiedTypeName name="adt.stack.Stack"/>
     <fullyQualifiedTypeName name="adt.queue.QueueOverflowException"/>
@@ -44,4 +43,7 @@
     <fullyQualifiedTypeName name="adt.stack.StackDoubleLinkedListImpl"/>
     <fullyQualifiedTypeName name="adt.heap.ComparatorMaxHeap"/>
     <fullyQualifiedTypeName name="adt.heap.ComparatorMinHeap"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="adt.bst.BSTNode"/>
+    <fullyQualifiedTypeName name="adt.bt.Util"/>
 </qualifiedTypeNameHistroy>
